@@ -22,7 +22,7 @@ fetch(endpointURL, {
       imgUser.classList.add('img-user');
       const userImage = document.createElement('img');
       userImage.classList.add('user-image');
-      userImage.src = '../img/what.png';
+      userImage.src = 'img/what.png';
       imgUser.appendChild(userImage);
 
       const contentText = document.createElement('div');
@@ -91,7 +91,7 @@ fetch(secondEndpointURL, {
       imgUser.classList.add('img-user');
       const userImage = document.createElement('img');
       userImage.classList.add('user-image');
-      userImage.src = '../img/what.png';
+      userImage.src = 'img/what.png';
       imgUser.appendChild(userImage);
 
       const contentText = document.createElement('div');
@@ -157,7 +157,7 @@ fetch(threeEndpointURL, {
       imgUser.classList.add('img-user');
       const userImage = document.createElement('img');
       userImage.classList.add('user-image');
-      userImage.src = '../img/what.png';
+      userImage.src = 'img/what.png';
       imgUser.appendChild(userImage);
 
       const contentText = document.createElement('div');
